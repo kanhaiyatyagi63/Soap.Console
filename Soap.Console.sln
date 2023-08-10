@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soap.Console", "Soap.Console\Soap.Console.csproj", "{95FAAC32-F2E3-427F-A556-5B39BB680A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soap.API", "Soap.API\Soap.API.csproj", "{90907B7C-3273-46D1-B992-A7061F64CA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FAAC32-F2E3-427F-A556-5B39BB680A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FAAC32-F2E3-427F-A556-5B39BB680A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FAAC32-F2E3-427F-A556-5B39BB680A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FAAC32-F2E3-427F-A556-5B39BB680A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90907B7C-3273-46D1-B992-A7061F64CA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90907B7C-3273-46D1-B992-A7061F64CA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90907B7C-3273-46D1-B992-A7061F64CA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90907B7C-3273-46D1-B992-A7061F64CA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE69D4B-F7A0-485B-814D-67E375E846C5}
+	EndGlobalSection
+EndGlobal
